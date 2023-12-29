@@ -19,6 +19,6 @@ src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd
 </p>
 
 <h3>
-
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub Profile!
-[![ᴍʀ ʀᴧᴊ](https://github-stats-alpha.vercel.app/api?username=CodeLearning301 "The Team Alexa")](https://github-stats-alpha.vercel.app/api?username=CodeLearning301 "The Team Alexa")
+    
+# ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏꜰɪʟᴇ!
+[![ᴍʀ ʀᴧᴊ](https://github-stats-alpha.vercel.app/api?username=CodeLearning301 "ᴍʀ ʀᴧᴊ")](https://github-stats-alpha.vercel.app/api?username=CodeLearning301 "ᴍʀ ʀᴧᴊ")
