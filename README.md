@@ -51,7 +51,7 @@ You can use the website to generate badges: https://shields.io/
 
 |:-------------------------------------------------------------------------------------------------------------------------------: |
 
-| <a href="https://t.me/JannatUpdate"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/Asau_29"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a> <a href="https://www.youtube.com/channel/techAbishnoi"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a> |
+| <a href="https://t.me/JannatUpdate"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a>   <a href="https://www.instagram.com/official_raj_anshu"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>    <a href="https://www.youtube.com/channel/Official_Mr_Raj_Anshu"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a> |
 
 |       **[ᴍʀ ʀᴧᴊ ᴋɪɴɢ ᴏꜰ ᴏᴡɴ ᴋɪɴɢᴅᴏᴍ 🌎](https://t.me/Mr_Raj_Op)** |
 
