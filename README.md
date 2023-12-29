@@ -20,4 +20,4 @@ src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd
 
 <h3>
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub Profile! [![Profile views](https://komarev.com/ghpvc/?username=TheTeamAlexa&label=Profile%20views&style=for-the-badge)](https://github.com/TheTeamAlexa)
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub Profile!
