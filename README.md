@@ -26,9 +26,6 @@ src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd
 <h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
 
 <p align="center">
-  <a href="https://t.me/Dr_Asad_Ali"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
-    </p>
-<p align="center">
     <img
         width="49%"
         src="https://github-readme-stats.vercel.app/api?username=TheTeamAlexa&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
